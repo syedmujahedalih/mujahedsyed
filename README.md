@@ -9,7 +9,7 @@ Front-End: HTML, CSS, React.JS, Figma, Photoshop
 Tools and Databases: Tableau Desktop, Power BI, Alteryx, Git, Apache Spark, PostgreSQL, MS Excel, Snowflake
 Python/Machine Learning/Deep Learning Packages and Frameworks: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sklearn, Keras, Pytorch
 
-Outside of work or academics, I like to be actively involved with the Data & Analytics community. I am a Tableau Student Ambassador and I am looking forward to connecting with the #DataFam on Twitter(@syedmujahed97), LinkedIn, or Clubhouse(@syedmujahed97).
+Outside of work or academics, I like to be actively involved with the Data & Analytics community. I am a former Tableau Student Ambassador and I am looking forward to connecting with the #DataFam on Twitter(@syedmujahed97), LinkedIn, or Clubhouse(@syedmujahed97).
 <!--
 **syedmujahedalih/syedmujahedalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
