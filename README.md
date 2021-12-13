@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Data Analyst and a certified Tableau Desktop Specialist with 2+ years of experience in analyzing data using Python, Tableau, SQL to convey actionable insights. I graduated with a MS in Computer Engineering from Arizona State University in May 2021. My primary areas of interest are Data Science, Data Analytics, Data Visualization, and Business Intelligence Analytics. I'm actively looking for full-time opportunities in any of the aforementioned roles.
+I am a Data Analyst and a certified Tableau Desktop Specialist with 3+ years of experience in analyzing data using Python, Tableau, SQL to convey actionable insights. I graduated with a MS in Computer Engineering from Arizona State University in May 2021. My primary areas of interest are Data Science, Data Analytics, Data Visualization, and Business Intelligence Analytics. I'm actively looking for full-time opportunities in any of the aforementioned roles.
 
 I have experience working with the following tech stack as part of my past internships, academic coursework, or hobby projects:
 
